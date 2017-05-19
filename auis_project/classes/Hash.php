@@ -6,4 +6,10 @@ class Hash{
 
 		echo 'test';
 	}
+
+	public function another(){
+
+		echo 'another function';
+		
+	}
 }
